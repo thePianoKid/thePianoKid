@@ -8,4 +8,4 @@
 <br>
 <br>
 
-[![My Git Stats](https://github-readme-stats.vercel.app/api?username=thepianokid&showicons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Git Stats](https://github-readme-stats.vercel.app/api?username=thepianokid&showicons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
