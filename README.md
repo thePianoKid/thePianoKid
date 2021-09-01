@@ -5,4 +5,7 @@
     - ✉️ Email: [gbrad012@uottawa.ca](mailto:gbrad012@uottawa.ca)
     - 🏢 [Linkedin](https://www.linkedin.com/in/gabe-braden-884227199/)
 
-[![My Git Stats](https://github-readme-stats.vercel.app/api?username=thepianokid)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+
+[![My Git Stats](https://github-readme-stats.vercel.app/api?username=thepianokid&showicons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
