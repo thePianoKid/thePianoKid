@@ -4,3 +4,5 @@
 - 📫  I would love to get in touch
     - ✉️ Email: [gbrad012@uottawa.ca](mailto:gbrad012@uottawa.ca)
     - 🏢 [Linkedin](https://www.linkedin.com/in/gabe-braden-884227199/)
+
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thepianokid](https://github.com/thepianokid/github-readme-stats)
