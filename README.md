@@ -5,4 +5,4 @@
     - ✉️ Email: [gbrad012@uottawa.ca](mailto:gbrad012@uottawa.ca)
     - 🏢 [Linkedin](https://www.linkedin.com/in/gabe-braden-884227199/)
 
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thepianokid](https://github.com/thepianokid/github-readme-stats)
+[![My Git Stats](https://github-readme-stats.vercel.app/api?username=thepianokid)](https://github.com/anuraghazra/github-readme-stats)
