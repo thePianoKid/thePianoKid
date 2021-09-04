@@ -1,4 +1,4 @@
-## 👋 Hello! My Name is Gabriel Braden
+### 👋 Hello!
 - I love coding in Python, JavaScript, PHP and MATLAB.
 - I’m currently attending the [University of Ottawa](https://www2.uottawa.ca/en) for [Software Engineering](https://engineering.uottawa.ca/undergraduate-programs/courses/software-2020)
 - I would love to get in touch
