@@ -6,6 +6,5 @@
     - [Linkedin](https://www.linkedin.com/in/gabe-braden-884227199/)
 
 <br>
-<br>
 
 [![My Git Stats](https://github-readme-stats.vercel.app/api?username=thepianokid&showicons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
