@@ -5,6 +5,6 @@
     - 🌙 [AI Bedtime Story Generator](https://github.com/thePianoKid/ReTell)
 
 - If you love JavaScript, building companies or endurance sports, we should meet up
-    - Email: [gbrad012@uottawa.ca](mailto:gbrad012@uottawa.ca)
-    - [Linkedin](https://www.linkedin.com/in/gabe-braden-884227199/)
-    - [Strava](https://www.strava.com/athletes/126630472)
+    - ✉️ [Email](mailto:gbrad012@uottawa.ca)
+    - 🤝 [Linkedin](https://www.linkedin.com/in/gabe-braden-884227199/)
+    - 🏃 [Strava](https://www.strava.com/athletes/126630472)
