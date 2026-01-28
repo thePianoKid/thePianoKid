@@ -4,7 +4,6 @@
     - 🤖 [Robot Artist](https://github.com/thePianoKid/da_vinci)
     - 🌙 [AI Bedtime Story Generator](https://github.com/thePianoKid/ReTell)
 
-- If you love Python, building companies or endurance sports, we should meet up
-    - ✉️ [Email](mailto:gbrad012@uottawa.ca)
+- If you love Swift, building companies or endurance sports, we should meet up
     - 🤝 [Linkedin](https://www.linkedin.com/in/gabe-braden-884227199/)
     - 🏃 [Strava](https://www.strava.com/athletes/126630472)
